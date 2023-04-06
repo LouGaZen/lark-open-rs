@@ -1,0 +1,15 @@
+[package]
+name = "lark-open-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["LouGaZen <lougazen.me@gmail.com>"]
+description = "An Unofficial sdk of Lark Open Platform SDK"
+readme = "README.md"
+homepage = "https://github.com/LouGaZen/lark-open-rs"
+repository = "https://github.com/LouGaZen/lark-open-rs"
+keywords = ["lark", "open", "sdk"]
+license = "MIT"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
