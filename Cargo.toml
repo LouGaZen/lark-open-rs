@@ -1,0 +1,12 @@
+[package]
+name = "lark-open-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["LouGaZen <lougazen.me@gmail.com>"]
+readme = "README.md"
+description = """
+An Unofficial sdk of Lark Open Platform SDK, implemented in Rust 🦀️
+"""
+keywords = ["lark", "sdk"]
+
+[dependencies]
